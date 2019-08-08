@@ -1,0 +1,13 @@
+{
+"companyName": "Szakál Vince Abosa",
+"productName": "Interaktív Tabló",
+"dataUrl": "BULID.data.unityweb",
+"asmCodeUrl": "BULID.asm.code.unityweb",
+"asmMemoryUrl": "BULID.asm.memory.unityweb",
+"asmFrameworkUrl": "BULID.asm.framework.unityweb",
+"TOTAL_MEMORY": 536870912,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#000000"
+}
